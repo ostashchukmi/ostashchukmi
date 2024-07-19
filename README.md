@@ -4,16 +4,14 @@
   <img height="300" width="600" src="https://i.pinimg.com/originals/89/80/8d/89808d75b4118135c6d42e69aaf3eab2.gif"  />
 </div>
 
-###
-
-###
+### 
 
 <h1 align="center">Привет 👋 Меня зовут Мария! </h1>
 
 ###
+
 <div align="center">
-  </a>
-  <a href=" https://t.me/ostaschuuk" target="_blank">
+   <a href="https://t.me/ostaschuuk" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
 </div>
