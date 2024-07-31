@@ -26,6 +26,6 @@
 
 
 <h3 align="left">🛠 Навыки и инструменты:</h3>
-<p align="left">PostgreSQL.png.</p>
+<p><img src="PostgreSQL.png." /></p>
 
 ###
