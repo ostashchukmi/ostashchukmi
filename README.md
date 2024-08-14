@@ -1,9 +1,3 @@
-<br clear="both">
-
-<div align="center">
-  <img height="300" width="600" src="https://i.pinimg.com/originals/89/80/8d/89808d75b4118135c6d42e69aaf3eab2.gif"  />
-</div>
-
 ### 
 
 <h1 align="center">Привет 👋 Меня зовут Мария! </h1>
